@@ -1,0 +1,2968 @@
+{
+  "stress_0001": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 36,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 46,
+      "end": 50,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 55,
+      "end": 64,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 91,
+      "end": 94,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "stress_0002": [
+    {
+      "start": 51,
+      "end": 66,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0003": [
+    {
+      "start": 40,
+      "end": 119,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 154,
+      "end": 206,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 221,
+      "end": 226,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 227,
+      "end": 238,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 238,
+      "end": 239,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 240,
+      "end": 246,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 247,
+      "end": 248,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 249,
+      "end": 271,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_0004": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 94,
+      "end": 145,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 165,
+      "end": 170,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 171,
+      "end": 181,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 182,
+      "end": 209,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_0005": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 11,
+      "end": 13,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 33,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 43,
+      "end": 47,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 52,
+      "end": 54,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 54,
+      "end": 57,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 57,
+      "end": 59,
+      "label": "LOCATION",
+      "pii": false
+    }
+  ],
+  "stress_0006": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 11,
+      "end": 13,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 30,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 40,
+      "end": 44,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 49,
+      "end": 55,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_0007": [
+    {
+      "start": 40,
+      "end": 62,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 63,
+      "end": 119,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 154,
+      "end": 164,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 165,
+      "end": 171,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 172,
+      "end": 204,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 205,
+      "end": 209,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 224,
+      "end": 264,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_0008": [
+    {
+      "start": 51,
+      "end": 66,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0009": [
+    {
+      "start": 40,
+      "end": 74,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 75,
+      "end": 106,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 107,
+      "end": 123,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 158,
+      "end": 209,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 229,
+      "end": 267,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_0010": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 11,
+      "end": 13,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 35,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 45,
+      "end": 47,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 47,
+      "end": 49,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 54,
+      "end": 63,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_0011": [
+    {
+      "start": 27,
+      "end": 30,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 51,
+      "end": 66,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0012": [
+    {
+      "start": 40,
+      "end": 121,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 156,
+      "end": 210,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 230,
+      "end": 268,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_0013": [
+    {
+      "start": 29,
+      "end": 31,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 51,
+      "end": 66,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0014": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 94,
+      "end": 144,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 164,
+      "end": 169,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 170,
+      "end": 178,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 179,
+      "end": 204,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_0015": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 30,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 40,
+      "end": 42,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 42,
+      "end": 44,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 49,
+      "end": 53,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_0016": [
+    {
+      "start": 40,
+      "end": 88,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 89,
+      "end": 94,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 95,
+      "end": 122,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 157,
+      "end": 207,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 229,
+      "end": 232,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 233,
+      "end": 262,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_0017": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 32,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 42,
+      "end": 44,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 44,
+      "end": 46,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 51,
+      "end": 53,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 53,
+      "end": 57,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_0018": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 30,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 40,
+      "end": 42,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 42,
+      "end": 44,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 44,
+      "end": 45,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 49,
+      "end": 58,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_0019": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 94,
+      "end": 141,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 161,
+      "end": 181,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 182,
+      "end": 207,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_0020": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 11,
+      "end": 13,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 35,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 45,
+      "end": 47,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 47,
+      "end": 49,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 54,
+      "end": 63,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_0021": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 30,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 40,
+      "end": 42,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 42,
+      "end": 44,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 49,
+      "end": 58,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_0022": [
+    {
+      "start": 40,
+      "end": 121,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 156,
+      "end": 200,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 220,
+      "end": 254,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_0023": [
+    {
+      "start": 29,
+      "end": 31,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 51,
+      "end": 66,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0024": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 11,
+      "end": 13,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 31,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 41,
+      "end": 43,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 43,
+      "end": 45,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 50,
+      "end": 55,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_0025": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 34,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 44,
+      "end": 46,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 46,
+      "end": 48,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 53,
+      "end": 59,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_0026": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 30,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 40,
+      "end": 44,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 49,
+      "end": 51,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 51,
+      "end": 54,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 54,
+      "end": 56,
+      "label": "LOCATION",
+      "pii": false
+    }
+  ],
+  "stress_0027": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 94,
+      "end": 147,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 169,
+      "end": 204,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_0028": [
+    {
+      "start": 40,
+      "end": 125,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 160,
+      "end": 218,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 233,
+      "end": 246,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 247,
+      "end": 271,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_0029": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 31,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 41,
+      "end": 43,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 43,
+      "end": 45,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 45,
+      "end": 46,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 50,
+      "end": 57,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_0030": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 35,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 45,
+      "end": 47,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 47,
+      "end": 49,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 54,
+      "end": 58,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_0031": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 11,
+      "end": 13,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 31,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 41,
+      "end": 43,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 43,
+      "end": 45,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 50,
+      "end": 59,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_0032": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 31,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 41,
+      "end": 43,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 43,
+      "end": 45,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 45,
+      "end": 46,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 50,
+      "end": 59,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_0033": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 30,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 40,
+      "end": 42,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 42,
+      "end": 44,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 49,
+      "end": 55,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_0034": [
+    {
+      "start": 40,
+      "end": 118,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 153,
+      "end": 199,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 219,
+      "end": 224,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 225,
+      "end": 233,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 234,
+      "end": 251,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 252,
+      "end": 258,
+      "label": "LOCATION",
+      "pii": false
+    }
+  ],
+  "stress_0035": [
+    {
+      "start": 40,
+      "end": 115,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 150,
+      "end": 196,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 216,
+      "end": 221,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 222,
+      "end": 252,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_0036": [
+    {
+      "start": 40,
+      "end": 92,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 93,
+      "end": 97,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 98,
+      "end": 120,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 155,
+      "end": 206,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 226,
+      "end": 231,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 232,
+      "end": 240,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 241,
+      "end": 261,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 265,
+      "end": 271,
+      "label": "LOCATION",
+      "pii": false
+    }
+  ],
+  "stress_0037": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 33,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 43,
+      "end": 47,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 47,
+      "end": 48,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 52,
+      "end": 58,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_0038": [
+    {
+      "start": 51,
+      "end": 66,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0039": [
+    {
+      "start": 51,
+      "end": 66,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0040": [
+    {
+      "start": 27,
+      "end": 30,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 51,
+      "end": 66,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0041": [
+    {
+      "start": 40,
+      "end": 79,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 80,
+      "end": 103,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 104,
+      "end": 116,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 151,
+      "end": 157,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 158,
+      "end": 201,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 221,
+      "end": 240,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 241,
+      "end": 261,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 262,
+      "end": 268,
+      "label": "LOCATION",
+      "pii": false
+    }
+  ],
+  "stress_0042": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 11,
+      "end": 13,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 31,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 41,
+      "end": 43,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 43,
+      "end": 45,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 50,
+      "end": 59,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_0043": [
+    {
+      "start": 40,
+      "end": 46,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 47,
+      "end": 55,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 56,
+      "end": 123,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 158,
+      "end": 161,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 162,
+      "end": 166,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 167,
+      "end": 210,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 230,
+      "end": 235,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 236,
+      "end": 244,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 245,
+      "end": 272,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_0044": [
+    {
+      "start": 40,
+      "end": 46,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 47,
+      "end": 120,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 155,
+      "end": 204,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 224,
+      "end": 226,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 226,
+      "end": 243,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 244,
+      "end": 245,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 246,
+      "end": 255,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 256,
+      "end": 272,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_0045": [
+    {
+      "start": 29,
+      "end": 31,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 51,
+      "end": 66,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0046": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 11,
+      "end": 13,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 31,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 41,
+      "end": 45,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 50,
+      "end": 55,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_0047": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 94,
+      "end": 146,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 161,
+      "end": 179,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 180,
+      "end": 205,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_0048": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 29,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 39,
+      "end": 43,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 48,
+      "end": 51,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 51,
+      "end": 53,
+      "label": "PERSON_NAME",
+      "pii": true
+    }
+  ],
+  "stress_0049": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 11,
+      "end": 13,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 29,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 39,
+      "end": 43,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 48,
+      "end": 53,
+      "label": "LOCATION",
+      "pii": false
+    }
+  ],
+  "stress_0050": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 94,
+      "end": 149,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 171,
+      "end": 205,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_0051": [
+    {
+      "start": 40,
+      "end": 67,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 68,
+      "end": 109,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 110,
+      "end": 125,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 160,
+      "end": 195,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 196,
+      "end": 201,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 202,
+      "end": 216,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 231,
+      "end": 233,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 233,
+      "end": 251,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 252,
+      "end": 280,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_0052": [
+    {
+      "start": 30,
+      "end": 32,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 51,
+      "end": 66,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0053": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 30,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 40,
+      "end": 44,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 49,
+      "end": 58,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_0054": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 94,
+      "end": 138,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 158,
+      "end": 175,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 179,
+      "end": 192,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 196,
+      "end": 202,
+      "label": "LOCATION",
+      "pii": false
+    }
+  ],
+  "stress_0055": [
+    {
+      "start": 40,
+      "end": 118,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 153,
+      "end": 202,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 222,
+      "end": 253,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_0056": [
+    {
+      "start": 40,
+      "end": 125,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 160,
+      "end": 211,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 231,
+      "end": 237,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 238,
+      "end": 241,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 242,
+      "end": 247,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 248,
+      "end": 250,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 251,
+      "end": 252,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 253,
+      "end": 258,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 259,
+      "end": 275,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_0057": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 31,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 41,
+      "end": 43,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 43,
+      "end": 45,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 50,
+      "end": 56,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_0058": [
+    {
+      "start": 51,
+      "end": 66,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0059": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 29,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 39,
+      "end": 43,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 48,
+      "end": 51,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 51,
+      "end": 53,
+      "label": "PERSON_NAME",
+      "pii": true
+    }
+  ],
+  "stress_0060": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 34,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 44,
+      "end": 48,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 53,
+      "end": 55,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 55,
+      "end": 58,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 58,
+      "end": 60,
+      "label": "LOCATION",
+      "pii": false
+    }
+  ],
+  "stress_0061": [
+    {
+      "start": 27,
+      "end": 30,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 51,
+      "end": 66,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0062": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 94,
+      "end": 153,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 173,
+      "end": 175,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 175,
+      "end": 190,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 191,
+      "end": 218,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_0063": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 11,
+      "end": 13,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 27,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 37,
+      "end": 41,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 46,
+      "end": 49,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 49,
+      "end": 51,
+      "label": "PERSON_NAME",
+      "pii": true
+    }
+  ],
+  "stress_0064": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 94,
+      "end": 149,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 169,
+      "end": 196,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_0065": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 94,
+      "end": 144,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 159,
+      "end": 163,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 164,
+      "end": 167,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 168,
+      "end": 173,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 174,
+      "end": 194,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_0066": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 34,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 44,
+      "end": 46,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 46,
+      "end": 48,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 53,
+      "end": 59,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 59,
+      "end": 62,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_0067": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 29,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 39,
+      "end": 41,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 41,
+      "end": 43,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 48,
+      "end": 50,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 50,
+      "end": 54,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_0068": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 29,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 39,
+      "end": 43,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 48,
+      "end": 53,
+      "label": "LOCATION",
+      "pii": false
+    }
+  ],
+  "stress_0069": [
+    {
+      "start": 27,
+      "end": 29,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 29,
+      "end": 31,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 51,
+      "end": 66,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0070": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 94,
+      "end": 142,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 162,
+      "end": 167,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 168,
+      "end": 176,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 177,
+      "end": 194,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_0071": [
+    {
+      "start": 40,
+      "end": 120,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 155,
+      "end": 208,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 228,
+      "end": 233,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 234,
+      "end": 236,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 236,
+      "end": 267,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_0072": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 33,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 43,
+      "end": 47,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 52,
+      "end": 54,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 54,
+      "end": 58,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_0073": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 11,
+      "end": 13,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 30,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 40,
+      "end": 44,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 49,
+      "end": 54,
+      "label": "LOCATION",
+      "pii": false
+    }
+  ],
+  "stress_0074": [
+    {
+      "start": 40,
+      "end": 121,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 156,
+      "end": 207,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 224,
+      "end": 262,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_0075": [
+    {
+      "start": 27,
+      "end": 29,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 51,
+      "end": 66,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0076": [
+    {
+      "start": 40,
+      "end": 117,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 152,
+      "end": 206,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 221,
+      "end": 226,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 227,
+      "end": 234,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 235,
+      "end": 262,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_0077": [
+    {
+      "start": 51,
+      "end": 66,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0078": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 94,
+      "end": 140,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 160,
+      "end": 165,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 166,
+      "end": 174,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 175,
+      "end": 202,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_0079": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 11,
+      "end": 13,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 29,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 39,
+      "end": 41,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 41,
+      "end": 43,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 48,
+      "end": 54,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_0080": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 11,
+      "end": 13,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 30,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 40,
+      "end": 42,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 42,
+      "end": 44,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 49,
+      "end": 55,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_0081": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 31,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 41,
+      "end": 43,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 43,
+      "end": 45,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 50,
+      "end": 52,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 52,
+      "end": 56,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_0082": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 32,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 42,
+      "end": 46,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 51,
+      "end": 54,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 54,
+      "end": 56,
+      "label": "PERSON_NAME",
+      "pii": true
+    }
+  ],
+  "stress_0083": [
+    {
+      "start": 51,
+      "end": 66,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0084": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 32,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 42,
+      "end": 44,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 44,
+      "end": 46,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 51,
+      "end": 53,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 53,
+      "end": 61,
+      "label": "LOCATION",
+      "pii": false
+    }
+  ],
+  "stress_0085": [
+    {
+      "start": 27,
+      "end": 30,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 51,
+      "end": 66,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0086": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 94,
+      "end": 145,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 165,
+      "end": 170,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 171,
+      "end": 178,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 178,
+      "end": 202,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_0087": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 94,
+      "end": 145,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 165,
+      "end": 183,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 184,
+      "end": 188,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 189,
+      "end": 194,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 195,
+      "end": 204,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 205,
+      "end": 221,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_0088": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 94,
+      "end": 142,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 162,
+      "end": 169,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 170,
+      "end": 193,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_0089": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 28,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 38,
+      "end": 42,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 47,
+      "end": 53,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_0090": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 94,
+      "end": 140,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 160,
+      "end": 165,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 166,
+      "end": 175,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 176,
+      "end": 203,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_0091": [
+    {
+      "start": 40,
+      "end": 77,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 78,
+      "end": 87,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 88,
+      "end": 124,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 159,
+      "end": 217,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 232,
+      "end": 268,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_0092": [
+    {
+      "start": 29,
+      "end": 31,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 51,
+      "end": 66,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0093": [
+    {
+      "start": 29,
+      "end": 31,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 51,
+      "end": 66,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "stress_0094": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 94,
+      "end": 146,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 166,
+      "end": 171,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 172,
+      "end": 180,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 181,
+      "end": 201,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_0095": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 29,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 39,
+      "end": 43,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 48,
+      "end": 54,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_0096": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 94,
+      "end": 148,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 163,
+      "end": 184,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 188,
+      "end": 195,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 196,
+      "end": 207,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 208,
+      "end": 211,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 215,
+      "end": 221,
+      "label": "LOCATION",
+      "pii": false
+    }
+  ],
+  "stress_0097": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 94,
+      "end": 143,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 163,
+      "end": 200,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_0098": [
+    {
+      "start": 40,
+      "end": 59,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 94,
+      "end": 144,
+      "label": "PHONE",
+      "pii": true
+    },
+    {
+      "start": 164,
+      "end": 171,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 172,
+      "end": 179,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 180,
+      "end": 208,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "stress_0099": [
+    {
+      "start": 0,
+      "end": 2,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 19,
+      "end": 29,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 39,
+      "end": 41,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 41,
+      "end": 43,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 48,
+      "end": 55,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "stress_0100": [
+    {
+      "start": 51,
+      "end": 66,
+      "label": "DATE",
+      "pii": true
+    }
+  ]
+}
